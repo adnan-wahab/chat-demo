@@ -1,0 +1,7 @@
+instructions to run
+
+```
+npm install -g serve
+serve
+```
+very simple firebase chat w/ material design 
